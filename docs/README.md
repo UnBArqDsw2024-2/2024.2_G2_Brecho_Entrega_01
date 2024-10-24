@@ -1,32 +1,32 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)_(Entrega_01)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2024.2_G1_Jogo_Entrega_01*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# Brechó
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 02<br>
 **Entrega**: 01<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
+| Matrícula | Aluno                                     | Github           |
+| --------- | ----------------------------------------- | ---------------- |
+| 202015901 | Ana Luiza Hoffmann Ferreira               | AnHoff           |
+| 221037465 | Douglas Marinho Martins                   | M4RINH0          |
+| 221008580 | Eduardo Belarmino Silva                   | eduard0803       |
+| 202016168 | Eric Camargo da Silva                     | Ericcs10         |
+| 200038028 | Guilherme Evangelista Ferreira dos Santos | guinuto          |
+| 202016524 | Henrique Torres Landin                    | henriqtorresl    |
+| 180022512 | Lucas de Lima Spinosa dos Santos          | LucasSpinosa     |
+| 150138202 | Luiz Guilherme Palhares Pettengill        | luizpettengill   |
+| 190047348 | Marcelo Ferreira Magalhães Júnior         | marrcelo         |
+| 221008310 | Marco Tulio                               | MarcoTulioSoares |
+| 190116498 | Rodrigo Braz Ferreira Gontijo             | rodrigogontijoo  |
+| 190020521 | Valderson Pontes da Silva Junior          | valdersonjr      |
+
+## Sobre
+
 Contextualize, usando referências, links, e outros materiais como fontes.
 
 ## Screenshots da Primeira Entrega
+
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ## Há algo a ser executado?
@@ -37,5 +37,6 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
-## Informações Complementares 
+## Informações Complementares
+
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
