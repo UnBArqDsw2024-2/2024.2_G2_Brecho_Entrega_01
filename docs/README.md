@@ -8,18 +8,18 @@
 
 | Matrícula | Aluno                                     | Github           |
 | --------- | ----------------------------------------- | ---------------- |
-| 202015901 | Ana Luiza Hoffmann Ferreira               | AnHoff           |
-| 221037465 | Douglas Marinho Martins                   | M4RINH0          |
-| 221008580 | Eduardo Belarmino Silva                   | eduard0803       |
-| 202016168 | Eric Camargo da Silva                     | Ericcs10         |
-| 200038028 | Guilherme Evangelista Ferreira dos Santos | guinuto          |
-| 202016524 | Henrique Torres Landin                    | henriqtorresl    |
-| 180022512 | Lucas de Lima Spinosa dos Santos          | LucasSpinosa     |
-| 150138202 | Luiz Guilherme Palhares Pettengill        | luizpettengill   |
-| 190047348 | Marcelo Ferreira Magalhães Júnior         | marrcelo         |
-| 221008310 | Marco Tulio                               | MarcoTulioSoares |
-| 190116498 | Rodrigo Braz Ferreira Gontijo             | rodrigogontijoo  |
-| 190020521 | Valderson Pontes da Silva Junior          | valdersonjr      |
+| 202015901 | Ana Luiza Hoffmann Ferreira               | [AnHoff](https://github.com/AnHoff)          |
+| 221037465 | Douglas Marinho Martins                   | [M4RINH0](https://github.com/M4RINH0)        |
+| 221008580 | Eduardo Belarmino Silva                   | [eduard0803](https://github.com/eduard0803)  |
+| 202016168 | Eric Camargo da Silva                     | [Ericcs10](https://github.com/Ericcs10)      |
+| 200038028 | Guilherme Evangelista Ferreira dos Santos | [guinuto](https://github.com/guinuto)        |
+| 202016524 | Henrique Torres Landin                    | [henriqtorresl](https://github.com/henriqtorresl) |
+| 180022512 | Lucas de Lima Spinosa dos Santos          | [LucasSpinosa](https://github.com/LucasSpinosa) |
+| 150138202 | Luiz Guilherme Palhares Pettengill        | [luizpettengill](https://github.com/LuizPettengill)|
+| 190047348 | Marcelo Ferreira Magalhães Júnior         | [marrcelo](https://github.com/marrcelo)      |
+| 221008310 | Marco Tulio                               | [MarcoTulioSoares](https://github.com/MarcoTulioSoares) |
+| 190116498 | Rodrigo Braz Ferreira Gontijo             | [rodrigogontijoo](https://github.com/rodrigogontijoo)  |
+| 190020521 | Valderson Pontes da Silva Junior          | [valdersonjr](https://github.com/valdersonjr)      |
 
 ## Sobre
 
