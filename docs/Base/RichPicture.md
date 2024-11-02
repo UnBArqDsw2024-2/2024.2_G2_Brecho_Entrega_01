@@ -18,3 +18,10 @@ Foram elaboradas *Rich Pictures* (RPs) com base nos resultados da fase **Design 
 ## RP2
 
 ![Rich Picture 2: Elaborado por Rodrigo Gontijo](../RichPicture/RP2.jpeg)
+
+## RP3
+
+![Rich Picture 3: Elaborado por Luiz G. P. Pettengill](../RichPicture/RP3.jpeg)
+
+
+
