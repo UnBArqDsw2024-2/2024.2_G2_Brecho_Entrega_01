@@ -21,7 +21,7 @@ Foram elaboradas *Rich Pictures* (RPs) com base nos resultados da fase **Design 
 
 ## RP3
 
-![Rich Picture 3: Elaborado por Luiz G. P. Pettengill](../RichPicture/RP3.jpeg)
+![Rich Picture 3: Elaborado por Luiz G. P. Pettengill](../RichPicture/RP3.png)
 
 
 
