@@ -10,6 +10,7 @@
       - [Rich Picture](/Base/RichPicture.md)
       - [Mapa Mental](/Base/MapaMental.md)
       - [5W2H](/Base/5w2h.md)
+      - [Brainstorming](/Base/Brainstorming.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
