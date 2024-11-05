@@ -15,7 +15,7 @@
       - [Rich Picture](/Base/1.1.DesignSprint?id=rich-picture)
       - [Mapa Mental](/Base/1.2.ArtefatoGeneralista.md?id=mapa-mental)
       - [5W2H](/Base/1.2.ArtefatoGeneralista.md?id=_5w2h)
-      - [Diagrama Causa-Efeito](/Base/1.2.ArtefatoGeneralista.md?id=diagrama-causa-efeito)
+      - [Diagrama Causa-Efeito](/Base/1.2.ArtefatoGeneralista.md?id=diagrama-de-causa-efeito)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
