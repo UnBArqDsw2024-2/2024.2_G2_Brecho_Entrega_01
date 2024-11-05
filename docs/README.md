@@ -1,4 +1,4 @@
-# Brechó
+# UnBrechó
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 02<br>
@@ -23,20 +23,18 @@
 
 ## Sobre
 
-Contextualize, usando referências, links, e outros materiais como fontes.
+O UnBrechó é uma aplicação web que visa ser um brechó online, permitindo que pessoas explorem um catálogo de produtos novos e usados, anunciem artigos, deixem avaliações sobre produtos e vendedores e realizem suas compras.
+
+Essa documentação visa documentar todos os artefatos exigidos pela docente na primeira entrega da disciplina, sendo eles: **Design Sprint**, **Artefatos Generalistas**, **BPMN**.
 
 ## Screenshots da Primeira Entrega
 
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+![](./Imagens/mapa_mental.jpeg)
+![](./Imagens/home.jpeg)
+![](./Imagens/bpnm_1.png)
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
-
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
-
-## Informações Complementares
-
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+( X ) NÃO
